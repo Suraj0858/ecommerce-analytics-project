@@ -21,11 +21,11 @@ after cleaning), Returns (962), Customer Activity (30,000)
 ## Project Workflow
 1. **Data Cleaning & Validation** — missing values, duplicates, data
    types, invalid values, categorical consistency, referential
-   integrity, business-rule validation, outliers ([notebook](notebooks/01_data_cleaning.ipynb))
+   integrity, business-rule validation, outliers ([notebooks](notebooks/01_data_cleaning.ipynb))
 2. **Exploratory Data Analysis** — sales, customer and product trends
-   ([notebook](notebooks/02_eda.ipynb))
+   ([notebooks](notebooks/02_eda.ipynb))
 3. **RFM & Churn Analysis** — customer segmentation, churn definition,
-   risk scoring ([notebook](notebooks/03_rfm_churn_analysis.ipynb))
+   risk scoring ([notebooks](notebooks/03_rfm_churn_analysis.ipynb))
 4. **SQL Server** — tables, keys, views, CTEs, window functions, stored
    procedures ([script](sql/ecommerce_sql_project.sql))
 5. **Power BI Data Model** — star schema, relationships, date table
