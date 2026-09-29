@@ -23,11 +23,11 @@ after cleaning), Returns (962), Customer Activity (30,000)
    types, invalid values, categorical consistency, referential
    integrity, business-rule validation, outliers ([.ipynb](notebooks))
 2. **Exploratory Data Analysis** — sales, customer and product trends
-   ([notebooks](notebooks/02_eda.ipynb))
+    ([.ipynb](notebooks))
 3. **RFM & Churn Analysis** — customer segmentation, churn definition,
-   risk scoring ([notebooks](notebooks/03_rfm_churn_analysis.ipynb))
+   risk scoring  ([.ipynb](notebooks))
 4. **SQL Server** — tables, keys, views, CTEs, window functions, stored
-   procedures ([script](sql/ecommerce_sql_project.sql))
+   procedures ([.sql](Script))
 5. **Power BI Data Model** — star schema, relationships, date table
 6. **DAX** — 29 measures across sales, profitability, customer,
    time-intelligence, growth and risk
