@@ -27,7 +27,7 @@ after cleaning), Returns (962), Customer Activity (30,000)
 3. **RFM & Churn Analysis** — customer segmentation, churn definition,
    risk scoring  ([.ipynb](notebooks))
 4. **SQL Server** — tables, keys, views, CTEs, window functions, stored
-   procedures ([.sql](Script))
+   procedures ([.sql](sql))
 5. **Power BI Data Model** — star schema, relationships, date table
 6. **DAX** — 29 measures across sales, profitability, customer,
    time-intelligence, growth and risk
