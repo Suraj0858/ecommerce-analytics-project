@@ -4,8 +4,6 @@ End-to-end data analytics project covering data cleaning, exploratory
 analysis, customer segmentation, SQL data modelling and an interactive
 Power BI dashboard for an e-commerce business.
 
-> **Note:** Dataset is synthetically generated for portfolio purposes.
-
 ## Business Problem
 Analyze sales performance, product profitability and customer behaviour
 to identify revenue growth opportunities and quantify revenue at risk
