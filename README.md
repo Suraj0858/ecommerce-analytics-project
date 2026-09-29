@@ -55,9 +55,9 @@ after cleaning), Returns (962), Customer Activity (30,000)
 ## Folder Structure
 ```
 ├── data/
-│   ├── raw/              # original messy dataset
-│   └── cleaned/           # cleaned data + RFM analysis output
-├── notebooks/             # Python cleaning, EDA, RFM/churn analysis
-├── sql/                   # SQL Server scripts
-├── powerbi/               # .pbix file + dashboard screenshots
+│   ├── raw/               original messy dataset
+│   └── cleaned/           cleaned data + RFM analysis output
+├── notebooks/             Python cleaning, EDA, RFM/churn analysis
+├── sql/                   SQL Server scripts
+├── powerbi/               .pbix file + dashboard screenshots
 ```
