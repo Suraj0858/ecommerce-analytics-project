@@ -21,7 +21,7 @@ after cleaning), Returns (962), Customer Activity (30,000)
 ## Project Workflow
 1. **Data Cleaning & Validation** — missing values, duplicates, data
    types, invalid values, categorical consistency, referential
-   integrity, business-rule validation, outliers ([notebooks](02_Python_Data_Cleaning.ipynb))
+   integrity, business-rule validation, outliers ([.ipynb](notebooks))
 2. **Exploratory Data Analysis** — sales, customer and product trends
    ([notebooks](notebooks/02_eda.ipynb))
 3. **RFM & Churn Analysis** — customer segmentation, churn definition,
