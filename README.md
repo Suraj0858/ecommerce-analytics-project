@@ -41,7 +41,7 @@ after cleaning), Returns (962), Customer Activity (30,000)
 ## Dashboard Screenshots
 
 ### Page 1: Executive Overview
-![Executive Overview](powerbi/screenshots/page1_executive_overview.png)
+![Executive Overview](powerbi/)
 
 ### Page 2: Sales Analysis
 ![Sales Analysis](powerbi/screenshots/page2_sales_analysis.png)
