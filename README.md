@@ -44,13 +44,13 @@ after cleaning), Returns (962), Customer Activity (30,000)
 ![Executive Overview](powerbi/)
 
 ### Page 2: Sales Analysis
-![Sales Analysis](powerbi/screenshots/page2_sales_analysis.png)
+![Sales Analysis](powerbi/)
 
 ### Page 3: Customer Analytics
-![Customer Analytics](powerbi/screenshots/page3_customer_analytics.png)
+![Customer Analytics](powerbi/)
 
 ### Page 4: Product & Profitability
-![Product & Profitability](powerbi/screenshots/page4_product_profitability.png)
+![Product & Profitability](powerbi/)
 
 ## Folder Structure
 ```
